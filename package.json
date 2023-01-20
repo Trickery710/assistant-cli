@@ -21,7 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/uuid": "^9.0.0",
-    "axios": "^1.2.1",
+    "axios": "^1.2.2",
     "cli-md": "^1.2.0",
     "cli-spinner": "^0.2.10",
     "electron": "22.0.0",
